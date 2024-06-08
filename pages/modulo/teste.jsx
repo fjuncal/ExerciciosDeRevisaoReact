@@ -1,4 +1,4 @@
-import Comp3, {Comp1, Comp2, Comp4, Comp5, Comp6, Comp7} from "@/components/modulo/funcionais";
+import Comp3, {Comp1, Comp2, Comp4, Comp5, Comp6, Comp7} from "../../components/modulo/funcionais";
 
 export default function teste() {
     return (
